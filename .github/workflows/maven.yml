@@ -24,4 +24,4 @@ jobs:
         if: success()
         with:
          name: Networks
-         path: /target
+         path: ./target
